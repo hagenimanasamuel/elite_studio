@@ -1,0 +1,9 @@
+export { default as DashboardContent } from './DashboardContent';
+export { default as Users } from './Users';
+export { default as GalleryManagement } from './GalleryManagement';
+export { default as UploadShare } from './UploadShare';
+export { default as CreateUpload } from './UploadShare/CreateUpload';
+export { default as EditUpload } from './UploadShare/EditUpload';
+export { default as CMS } from './CMS';
+export { default as Account } from './Account';
+export { default as ContactMessages } from './ContactMessages';
